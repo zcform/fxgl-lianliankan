@@ -209,8 +209,10 @@ public class ZcApplication extends GameApplication {
             }
         }
 
+        // todo 下一关
         // over -> next lever
         //FXGL.inc("lv", 1);
+
         initLv();
     }
 
