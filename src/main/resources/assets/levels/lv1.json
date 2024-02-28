@@ -1,0 +1,23 @@
+{
+  "img": [
+    "camera.png",
+    "close.png",
+    "delete.png",
+    "game.png",
+    "home.png",
+    "homeFill.png",
+    "lampBulb.png",
+    "lock.png",
+    "lock1.png",
+    "me.png",
+    "play.png",
+    "positioning.png",
+    "positioning1.png",
+    "save.png",
+    "setup.png",
+    "stop.png"
+  ],
+  "color": [
+    "0x000000ff"
+  ]
+}
